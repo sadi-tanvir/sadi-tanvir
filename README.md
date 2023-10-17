@@ -9,6 +9,11 @@
   <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail"></a>
 </p>
 
+
+### LeetCode
+- :trophy: [My LeetCode Profile](https://leetcode.com/yourusername/) - Solving problems and improving coding skills.
+  
+
 ### Skills
 - :gear: JavaScript
 - :gear: TypeScript
@@ -31,10 +36,6 @@
 
 - :chart_with_upwards_trend: basic Data Structures and Algorithms
 - :credit_card: Stripe Payment Gateway
-
-
-### LeetCode
-- :trophy: [My LeetCode Profile](https://leetcode.com/yourusername/) - Solving problems and improving coding skills.
 
 
 ### Projects
