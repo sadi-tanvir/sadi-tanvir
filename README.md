@@ -1,6 +1,6 @@
-<h1 align="center">Hello, I'm [Your Name]</h1>
+<h1 align="center">Hello, I'm Tanvir Hossain Sadi</h1>
 <p align="center">
-  Full Stack Developer | LeetCode Problem Solver
+  Full Stack Developer | Problem Solver
 </p>
 
 <p align="center">
