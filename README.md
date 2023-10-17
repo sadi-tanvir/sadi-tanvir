@@ -37,7 +37,7 @@
 
 ### Projects
 **Web Development**
-- [Project 1](https://modern-ecommerce-app.vercel.app) - A brief description of what this project is about.
+- [Modern Ecommerce](https://modern-ecommerce-app.vercel.app) - Modern Ecommerce - A Revolution in Shopping
   - Frontend: [GitHub Source](https://github.com/sadi-tanvir/Modern-ECommerce-Client)
   - Backend: [GitHub Source](https://github.com/sadi-tanvir/Modern-ECommerce-Server)
   
