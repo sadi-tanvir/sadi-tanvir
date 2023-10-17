@@ -33,6 +33,10 @@
 - :credit_card: Stripe Payment Gateway
 
 
+### LeetCode
+- :trophy: [My LeetCode Profile](https://leetcode.com/yourusername/) - Solving problems and improving coding skills.
+
+
 ### Projects
 **Web Development**
 - [Project 1](https://github.com/yourusername/project1) - A brief description of what this project is about.
