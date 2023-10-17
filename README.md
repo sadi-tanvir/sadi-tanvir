@@ -17,22 +17,19 @@
 - :atom: React.js
 
 - :recycle: Redux / Redux Toolkit
-- :globe_with_meridians: GraphQL / Apollo server
 - :computer: Node.js
+- :globe_with_meridians: GraphQL / Apollo server
 - :zap: Express.js
 - :leaves: MongoDB
 
+- :whale: Docker
 - :art: Tailwind CSS
 - :art: Bootstrap
 - :art: Sass
 - :fire: Firebase Authentication
-- :whale: Docker
 
-- :chart_with_upwards_trend: Comfortable with basic Data Structures and Algorithms
-- :iphone: React Native
 
-- :satellite: Socket.io
-- :art: GSAP Animation
+- :chart_with_upwards_trend: basic Data Structures and Algorithms
 - :credit_card: Stripe Payment Gateway
 
 
