@@ -10,7 +10,7 @@
 </p>
 
 ### Skills
-- :javascript: JavaScript
+- :gear: JavaScript
 - :gear: TypeScript
 - :art: Object-Oriented Programming (OOP)
 - :fast_forward: Next.js
