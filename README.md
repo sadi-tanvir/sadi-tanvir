@@ -16,10 +16,6 @@ I'm a dedicated problem solver with a strong passion for programming and a keen 
 
 My journey in the world of technology is a constant exploration of new horizons. Whether it's diving into cutting-edge programming languages, frameworks, or the latest industry trends, I'm always eager to stay ahead of the curve and share my knowledge with the tech community.
 
-### Visitors
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
-
-
 
 ### LeetCode
 - :trophy: [My LeetCode Profile](https://leetcode.com/sadi-tanvir) - Solving problems and improving coding skills.
@@ -61,3 +57,7 @@ My journey in the world of technology is a constant exploration of new horizons.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadi-tanvir)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sadi-tanvir)  
+
+
+### Visitors
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
