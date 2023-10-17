@@ -37,8 +37,14 @@
 
 ### Projects
 **Web Development**
-- [Project 1](https://github.com/yourusername/project1) - A brief description of what this project is about.
+- [Project 1](https://modern-ecommerce-app.vercel.app) - A brief description of what this project is about.
+  - Frontend: [GitHub Source](https://github.com/sadi-tanvir/Modern-ECommerce-Client)
+  - Backend: [GitHub Source](https://github.com/sadi-tanvir/Modern-ECommerce-Server)
+  
 - [Project 2](https://github.com/yourusername/project2) - Another interesting project you've worked on.
+  - Frontend: [GitHub Source](https://github.com/yourusername/project2-frontend)
+  - Backend: [GitHub Source](https://github.com/yourusername/project2-backend)
+
 
 **Data Science**
 - [Data Analysis](https://github.com/yourusername/data-analysis) - Describe the data analysis project and its significance.
