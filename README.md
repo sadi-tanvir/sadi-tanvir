@@ -10,11 +10,32 @@
 </p>
 
 ### Skills
-- :computer: Full Stack Web Development
-- :chart_with_upwards_trend: Data Structures and Algorithms
-- :file_folder: Databases (SQL & NoSQL)
-- :wrench: DevOps & Deployment
-- :bar_chart: Data Analysis
+### Skills
+- :computer: JavaScript
+- :computer: TypeScript
+- :mortar_board: Object-Oriented Programming (OOP)
+- :globe_with_meridians: Next.js
+- :atom: React.js
+
+- :arrows_counterclockwise: Redux / Redux Toolkit
+- :rocket: GraphQL / Apollo server
+- :green_heart: Node.js
+- :zap: Express.js
+- :deciduous_tree: MongoDB
+
+- :art: Tailwind CSS
+- :art: Bootstrap
+- :art: Sass
+- :fire: Firebase Authentication
+- :whale: Docker
+
+- :bar_chart: Comfortable with basic Data Structures and Algorithms
+- :iphone: React Native
+
+- :satellite: Socket.io
+- :loop: GSAP Animation
+- :credit_card: Stripe Payment Gateway
+
 
 ### Projects
 **Web Development**
