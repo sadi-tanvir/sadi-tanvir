@@ -11,6 +11,15 @@
 </p>
 
 
+### About Me
+I'm a dedicated problem solver with a strong passion for programming and a keen interest in exploring the latest trends and technologies. I thrive on tackling complex challenges and turning innovative ideas into reality through code.
+
+My journey in the world of technology is a constant exploration of new horizons. Whether it's diving into cutting-edge programming languages, frameworks, or the latest industry trends, I'm always eager to stay ahead of the curve and share my knowledge with the tech community.
+
+### Visitors
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+
+
 
 ### LeetCode
 - :trophy: [My LeetCode Profile](https://leetcode.com/sadi-tanvir) - Solving problems and improving coding skills.
@@ -52,14 +61,6 @@
 ### Recent Blog Posts
 - [Title of Blog Post 1](https://dev.to/yourusername/link-to-blog-post-1)
 - [Title of Blog Post 2](https://dev.to/yourusername/link-to-blog-post-2)
-
-### About Me
-I'm passionate about solving complex problems and turning ideas into reality through code. I love to explore new technologies and share my knowledge with the community. When I'm not coding, you can find me hiking, reading, or experimenting with new recipes in the kitchen.
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername) or [Twitter](https://twitter.com/yourusername). If you have any questions or just want to chat about tech, don't hesitate to reach out!
-
-### Visitors
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadi-tanvir)](https://github.com/anuraghazra/github-readme-stats)
