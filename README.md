@@ -62,3 +62,18 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourusern
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
 
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sadi-tanvir)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadi-tanvir)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sadi-tanvir&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sadi-tanvir)  
+
+![GitHub metrics](https://metrics.lecoq.io/sadi-tanvir)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=sadi-tanvir)  
+
+![Profile views](https://gpvc.arturio.dev/sadi-tanvir)  
+
