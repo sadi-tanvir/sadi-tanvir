@@ -72,8 +72,3 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourusern
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sadi-tanvir)  
 
-![Profile views](https://gpvc.arturio.dev/sadi-tanvir)  
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername)
-
