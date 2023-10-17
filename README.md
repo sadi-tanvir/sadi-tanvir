@@ -74,3 +74,6 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourusern
 
 ![Profile views](https://gpvc.arturio.dev/sadi-tanvir)  
 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername)
+
