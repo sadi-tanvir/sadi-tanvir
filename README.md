@@ -39,21 +39,15 @@
 ### Projects
 **Web Development**
 - :shopping_cart: [Modern Ecommerce](https://modern-ecommerce-app.vercel.app) - Modern Ecommerce - A Revolution in Shopping
-  - :globe_with_meridians: [Website](https://modern-ecommerce-app.vercel.app)
   - :octocat: [Frontend Source Code](https://github.com/sadi-tanvir/Modern-ECommerce-Client)
   - :octocat: [Backend Source Code](https://github.com/sadi-tanvir/Modern-ECommerce-Server)
   
-- :computer: [Sadi-EShop](https://github.com/yourusername/project2) - Sadi-EShop, an innovative e-shop management website
+- :computer: [Sadi-EShop](https://sadi-e-shop.vercel.app) - Sadi-EShop, an innovative e-shop management website
   - :octocat: [Source Code](https://github.com/sadi-tanvir/Sadi-EShop)
 
 
-
-
-**Data Science**
-- [Data Analysis](https://github.com/yourusername/data-analysis) - Describe the data analysis project and its significance.
-
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadi-tanvir&show_icons=true)
 
 ### Recent Blog Posts
 - [Title of Blog Post 1](https://dev.to/yourusername/link-to-blog-post-1)
