@@ -17,19 +17,34 @@
   
 
 ### Skills
-:globe_with_meridians: JavaScript &emsp; :label: TypeScript &emsp; :art: Object-Oriented Programming (OOP) &emsp; :fast_forward: Next.js &emsp; :atom: React.js &emsp; :recycle: Redux / Redux Toolkit &emsp; :rocket: GraphQL / Apollo server &emsp; :computer: Node.js &emsp; :zap: Express.js &emsp; :leaves: MongoDB &emsp; :whale: Docker &emsp; :art: Tailwind CSS &emsp; :fire: Firebase Authentication &emsp; :credit_card: Stripe Payment Gateway
+- :gear: JavaScript
+- :gear: TypeScript
+- :art: Object-Oriented Programming (OOP)
+- :fast_forward: Next.js
+- :atom: React.js
 
+- :recycle: Redux / Redux Toolkit
+- :computer: Node.js
+- :rocket: GraphQL / Apollo server
+- :zap: Express.js
+- :leaves: MongoDB
+
+- :whale: Docker
+- :art: Tailwind CSS
+- :fire: Firebase Authentication
+- :credit_card: Stripe Payment Gateway
 
 
 
 ### Projects
 **Web Development**
-- [Modern Ecommerce](https://modern-ecommerce-app.vercel.app) - Modern Ecommerce - A Revolution in Shopping
-  - Frontend: [GitHub Source](https://github.com/sadi-tanvir/Modern-ECommerce-Client)
-  - Backend: [GitHub Source](https://github.com/sadi-tanvir/Modern-ECommerce-Server)
+- :shopping_cart: [Modern Ecommerce](https://modern-ecommerce-app.vercel.app) - Modern Ecommerce - A Revolution in Shopping
+  - Frontend: :link: [GitHub Source](https://github.com/sadi-tanvir/Modern-ECommerce-Client)
+  - Backend: :link: [GitHub Source](https://github.com/sadi-tanvir/Modern-ECommerce-Server)
   
-- [Sadi-EShop](https://github.com/yourusername/project2) - Sadi-EShop, an innovative e-shop management website
-  - Source Code : [GitHub Source](https://github.com/sadi-tanvir/Sadi-EShop)
+- :computer: [Sadi-EShop](https://github.com/yourusername/project2) - Sadi-EShop, an innovative e-shop management website
+  - :link: Source Code: [GitHub Source](https://github.com/sadi-tanvir/Sadi-EShop)
+
 
 
 **Data Science**
