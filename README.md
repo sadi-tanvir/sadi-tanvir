@@ -31,12 +31,7 @@
 
 - :whale: Docker
 - :art: Tailwind CSS
-- :art: Bootstrap
-- :art: Sass
 - :fire: Firebase Authentication
-
-
-- :chart_with_upwards_trend: basic Data Structures and Algorithms
 - :credit_card: Stripe Payment Gateway
 
 
