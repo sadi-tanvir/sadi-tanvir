@@ -56,11 +56,11 @@ My journey in the world of technology is a constant exploration of new horizons.
 
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadi-tanvir&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadi-tanvir&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadi-tanvir)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadi-tanvir)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ![GitHub metrics](https://metrics.lecoq.io/sadi-tanvir)  
