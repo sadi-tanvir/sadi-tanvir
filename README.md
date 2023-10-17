@@ -17,7 +17,8 @@
   
 
 ### Skills
-:globe_with_meridians: JavaScript | :label: TypeScript | :art: Object-Oriented Programming (OOP) | :fast_forward: Next.js | :atom: React.js | :recycle: Redux / Redux Toolkit | :rocket: GraphQL / Apollo server | :computer: Node.js | :zap: Express.js | :leaves: MongoDB | :whale: Docker | :art: Tailwind CSS | :fire: Firebase Authentication | :credit_card: Stripe Payment Gateway
+:globe_with_meridians: JavaScript &emsp; :label: TypeScript &emsp; :art: Object-Oriented Programming (OOP) &emsp; :fast_forward: Next.js &emsp; :atom: React.js &emsp; :recycle: Redux / Redux Toolkit &emsp; :rocket: GraphQL / Apollo server &emsp; :computer: Node.js &emsp; :zap: Express.js &emsp; :leaves: MongoDB &emsp; :whale: Docker &emsp; :art: Tailwind CSS &emsp; :fire: Firebase Authentication &emsp; :credit_card: Stripe Payment Gateway
+
 
 
 
