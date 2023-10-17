@@ -41,9 +41,8 @@
   - Frontend: [GitHub Source](https://github.com/sadi-tanvir/Modern-ECommerce-Client)
   - Backend: [GitHub Source](https://github.com/sadi-tanvir/Modern-ECommerce-Server)
   
-- [Project 2](https://github.com/yourusername/project2) - Another interesting project you've worked on.
-  - Frontend: [GitHub Source](https://github.com/yourusername/project2-frontend)
-  - Backend: [GitHub Source](https://github.com/yourusername/project2-backend)
+- [Sadi-EShop](https://github.com/yourusername/project2) - Sadi-EShop, an innovative e-shop management website
+  - Source Code : [GitHub Source](https://github.com/sadi-tanvir/Sadi-EShop)
 
 
 **Data Science**
