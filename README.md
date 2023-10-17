@@ -13,7 +13,7 @@
 
 
 ### LeetCode
-- :trophy: [My LeetCode Profile](https://leetcode.com/yourusername/) - Solving problems and improving coding skills.
+- :trophy: [My LeetCode Profile](https://leetcode.com/sadi-tanvir) - Solving problems and improving coding skills.
   
 
 ### Skills
