@@ -25,7 +25,7 @@
 
 - :recycle: Redux / Redux Toolkit
 - :computer: Node.js
-- :globe_with_meridians: GraphQL / Apollo server
+- :rocket: GraphQL / Apollo server
 - :zap: Express.js
 - :leaves: MongoDB
 
