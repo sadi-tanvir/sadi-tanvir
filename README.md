@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter"></a>
-  <a href="https://leetcode.com/yourleetcodeprofile"><img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat-square&logo=leetcode"></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail"></a>
+  <a href="https://leetcode.com/sadi-tanvir"><img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat-square&logo=leetcode"></a>
+  <a href="https://www.linkedin.com/in/tanvir-hossain-sadi"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
+<!--   <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter"></a> -->
+  <a href="mailto:htanvir.sadi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail"></a>
 </p>
 
 
