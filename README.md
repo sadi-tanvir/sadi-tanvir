@@ -10,18 +10,17 @@
 </p>
 
 ### Skills
-### Skills
-- :computer: JavaScript
-- :computer: TypeScript
-- :mortar_board: Object-Oriented Programming (OOP)
-- :globe_with_meridians: Next.js
+- :gear: JavaScript
+- :label: TypeScript
+- :art: Object-Oriented Programming (OOP)
+- :fast_forward: Next.js
 - :atom: React.js
 
-- :arrows_counterclockwise: Redux / Redux Toolkit
-- :rocket: GraphQL / Apollo server
-- :green_heart: Node.js
+- :recycle: Redux / Redux Toolkit
+- :globe_with_meridians: GraphQL / Apollo server
+- :computer: Node.js
 - :zap: Express.js
-- :deciduous_tree: MongoDB
+- :leaves: MongoDB
 
 - :art: Tailwind CSS
 - :art: Bootstrap
@@ -29,11 +28,11 @@
 - :fire: Firebase Authentication
 - :whale: Docker
 
-- :bar_chart: Comfortable with basic Data Structures and Algorithms
+- :chart_with_upwards_trend: Comfortable with basic Data Structures and Algorithms
 - :iphone: React Native
 
 - :satellite: Socket.io
-- :loop: GSAP Animation
+- :art: GSAP Animation
 - :credit_card: Stripe Payment Gateway
 
 
