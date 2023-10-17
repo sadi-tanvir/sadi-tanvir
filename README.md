@@ -55,15 +55,13 @@ My journey in the world of technology is a constant exploration of new horizons.
   - :octocat: [Source Code](https://github.com/sadi-tanvir/Sadi-EShop)
 
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadi-tanvir&show_icons=true)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadi-tanvir)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![GitHub metrics](https://metrics.lecoq.io/sadi-tanvir)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=sadi-tanvir)  
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadi-tanvir)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+  <div>
+    ![GitHub metrics](https://metrics.lecoq.io/sadi-tanvir)
+    ![GitHub streak stats](https://streak-stats.demolab.com/?user=sadi-tanvir)
+  </div>
+</div>
 
