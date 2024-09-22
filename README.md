@@ -1,63 +1,47 @@
-<h1 align="center">Hello, I'm Tanvir Hossain Sadi</h1>
-<p align="center">
-  Full Stack Developer | Problem Solver
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/006b57a8-b685-42c5-ab2f-267ab3aa2fe1"width="48%"/>
+  <img src="https://github.com/user-attachments/assets/33a8b91b-431a-41e4-80ce-799fa703b942"width="48%"/>
+</div>
 
-<p align="center">
-  <a href="https://leetcode.com/sadi-tanvir"><img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat-square&logo=leetcode"></a>
-  <a href="https://www.linkedin.com/in/tanvir-hossain-sadi"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>
-<!--   <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter"></a> -->
-  <a href="mailto:htanvir.sadi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail"></a>
-</p>
+# 
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/aef71ee7-1f9f-40f9-9773-48e77ca9e1ae"width="8%"/>
+  <img src="https://github.com/user-attachments/assets/1709c0c9-14c6-4420-8141-bce2aa231c08"width="8%"/>
+  <img src="https://github.com/user-attachments/assets/e8c7941b-c599-49cc-a02a-a130021ddbe9"width="8%"/>
+  <img src="https://github.com/user-attachments/assets/1e830268-bf32-4d4e-b52a-2d63ae22f950"width="8%"/>
+  <img src="https://github.com/user-attachments/assets/39607d5b-897c-429d-8503-739b7bf8a7d2"width="8%"/>
+  <img src="https://github.com/user-attachments/assets/d654aed1-db83-4426-be3e-61d2930191cd"width="8%"/>
+  <img src="https://github.com/user-attachments/assets/4081fcf6-1c2a-4f0f-ab7c-ae64192086c0"width="8%"/>
+  <img src="https://github.com/user-attachments/assets/2849011f-38bd-44da-b91b-43e6d1c2388b"width="8%"/>
+</div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/03f1ba3f-2e57-4240-a1f7-9ee9e5063b0e"width="8%"/>
+  <img src="https://github.com/user-attachments/assets/f7d892ee-48ac-4864-aca3-b60ee4852fa6"width="8%"/>
+  <img src="https://github.com/user-attachments/assets/0da2179e-969d-4b33-8faa-516ac9e3c244"width="8%"/>
+  <img src="https://github.com/user-attachments/assets/c341860c-627b-4cf5-88fc-d998ff6a3f6d"width="8%"/>
+  <img src="https://github.com/user-attachments/assets/c62156f3-029a-46b9-a822-62a7ba3599ec"width="8%"/>
+  <img src="https://github.com/user-attachments/assets/dcfbea56-7ebf-4722-a4d8-b21aec48d5ac"width="8%"/>
+  <img src="https://github.com/user-attachments/assets/3c1c9e9e-ccd5-480d-8f44-5e9b87e157a6"width="8%"/>
+  <img src="https://github.com/user-attachments/assets/836edb46-af06-44b4-a9f0-5e4bdffdb30c"width="8%"/>
+</div>
 
-### About Me
-I'm a dedicated problem solver with a strong passion for programming and a keen interest in exploring the latest trends and technologies. I thrive on tackling complex challenges and turning innovative ideas into reality through code.
+# 
 
-My journey in the world of technology is a constant exploration of new horizons. Whether it's diving into cutting-edge programming languages, frameworks, or the latest industry trends, I'm always eager to stay ahead of the curve and share my knowledge with the tech community.
+<div align="center" >
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadi-tanvir&border_radius=10&theme=react&hide_border=true&background=000000&include_all_commits=false&count_private=false&layout=compact"width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sadi-tanvir&border_radius=10&theme=react&hide_border=true&background=000000&include_all_commits=false&count_private=false"width="53%"/>
+</div>
+<div align="center" >
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=sadi-tanvir&border_radius=10&theme=react&hide_border=true&background=000000&include_all_commits=false&count_private=false&layout=compact"width="72%"/>
 
-
-### LeetCode
-- :trophy: [My LeetCode Profile](https://leetcode.com/sadi-tanvir) - Solving problems and improving coding skills.
-  
-
-### Skills
-- :gear: JavaScript
-- :gear: TypeScript
-- :art: Object-Oriented Programming (OOP)
-- :fast_forward: Next.js
-- :atom: React.js
-
-- :recycle: Redux / Redux Toolkit
-- :computer: Node.js
-- :rocket: GraphQL / Apollo server
-- :zap: Express.js
-- :leaves: MongoDB
-
-- :whale: Docker
-- :art: Tailwind CSS
-- :fire: Firebase Authentication
-- :credit_card: Stripe Payment Gateway
+</div>
 
 
 
-### Projects
-**Web Development**
-- :shopping_cart: [Modern Ecommerce](https://modern-ecommerce-app.vercel.app) - Modern Ecommerce - A Revolution in Shopping
-  - :octocat: [Frontend Source Code](https://github.com/sadi-tanvir/Modern-ECommerce-Client)
-  - :octocat: [Backend Source Code](https://github.com/sadi-tanvir/Modern-ECommerce-Server)
-  
-- :computer: [Sadi-EShop](https://sadi-e-shop.vercel.app) - Sadi-EShop, an innovative e-shop management website
-  - :octocat: [Source Code](https://github.com/sadi-tanvir/Sadi-EShop)
 
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sadi-tanvir&show_icons=true) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadi-tanvir)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=sadi-tanvir)  
 
 
-### Visitors
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+
+
